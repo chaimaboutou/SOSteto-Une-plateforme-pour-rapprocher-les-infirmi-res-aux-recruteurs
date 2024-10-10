@@ -38,24 +38,24 @@ To get a local copy up and running, follow these steps:
 ## Screenshots
 
 ### Mobile App
-![Main Screen 1](screenshoots/mobile/main1.jpg)
-![Main Screen 2](screenshoots/mobile/main2.jpg)
-![Main Screen 3](screenshoots/mobile/main3.jpg)
-![Register](screenshoots/mobile/register.jpg)
-![Profile Recruiter](screenshoots/mobile/profilrec.jpg)
-![Search Page](screenshoots/mobile/pagerechrcherec.jpg)
-![Results Filter](screenshoots/mobile/resultfiltre.jpg)
-![Edit Profile](screenshoots/mobile/editprofil.jpg)
-![View Profile](screenshoots/mobile/voirProfile.jpg)
-![Request List](screenshoots/mobile/listedesdemandes.jpg)
-![S'inscrire](screenshoots/mobile/s'inscrire.jpg)
-![Add Dem](screenshoots/mobile/ajouterdem.jpg)
-![Add Dem 2](screenshoots/mobile/ajouterdem2.jpg)
+<img src="screenshoots/mobile/main1.jpg" alt="Main Screen 1" width="300"/>
+<img src="screenshoots/mobile/main2.jpg" alt="Main Screen 2" width="300"/>
+<img src="screenshoots/mobile/main3.jpg" alt="Main Screen 3" width="300"/>
+<img src="screenshoots/mobile/register.jpg" alt="Register" width="300"/>
+<img src="screenshoots/mobile/profilrec.jpg" alt="Profile Recruiter" width="300"/>
+<img src="screenshoots/mobile/pagerechrcherec.jpg" alt="Search Page" width="300"/>
+<img src="screenshoots/mobile/resultfiltre.jpg" alt="Results Filter" width="300"/>
+<img src="screenshoots/mobile/editprofil.jpg" alt="Edit Profile" width="300"/>
+<img src="screenshoots/mobile/voirProfile.jpg" alt="View Profile" width="300"/>
+<img src="screenshoots/mobile/listedesdemandes.jpg" alt="Request List" width="300"/>
+<img src="screenshoots/mobile/s'inscrire.jpg" alt="S'inscrire" width="300"/>
+<img src="screenshoots/mobile/ajouterdem.jpg" alt="Add Dem" width="300"/>
+<img src="screenshoots/mobile/ajouterdem2.jpg" alt="Add Dem 2" width="300"/>
 
 ### Back Office
-![Back Office Screenshot 1](./screenshoots/backoffice/4.PNG)
-![Back Office Screenshot 2](./screenshoots/backoffice/5.PNG)
-![Back Office Screenshot 3](screenshoots/backoffice/6.PNG)
-![Back Office Screenshot 4](screenshoots/backoffice/7.PNG)
-![Back Office Screenshot 5](screenshoots/backoffice/8.PNG)
-![Back Office Screenshot 6](screenshoots/backoffice/9.PNG)
+<img src="./screenshoots/backoffice/4.PNG" alt="Back Office Screenshot 1" width="300"/>
+<img src="./screenshoots/backoffice/5.PNG" alt="Back Office Screenshot 2" width="300"/>
+<img src="./screenshoots/backoffice/6.PNG" alt="Back Office Screenshot 3" width="300"/>
+<img src="./screenshoots/backoffice/7.PNG" alt="Back Office Screenshot 4" width="300"/>
+<img src="./screenshoots/backoffice/8.PNG" alt="Back Office Screenshot 5" width="300"/>
+<img src="./screenshoots/backoffice/9.PNG" alt="Back Office Screenshot 6" width="300"/>
