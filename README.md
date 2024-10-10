@@ -50,7 +50,6 @@ To get a local copy up and running, follow these steps:
     <img src="screenshoots/mobile/editprofil.jpg" alt="Edit Profile" width="150"/>
     <img src="screenshoots/mobile/voirProfile.jpg" alt="View Profile" width="150"/>
     <img src="screenshoots/mobile/listedesdemandes.jpg" alt="Request List" width="150"/>
-  
     <img src="screenshoots/mobile/ajouterdem.jpg" alt="Add Dem" width="150"/>
     <img src="screenshoots/mobile/ajouterdem2.jpg" alt="Add Dem 2" width="150"/>
 </div>
