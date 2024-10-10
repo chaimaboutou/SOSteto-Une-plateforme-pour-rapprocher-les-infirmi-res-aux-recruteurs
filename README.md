@@ -53,8 +53,8 @@ To get a local copy up and running, follow these steps:
 ![Add Dem 2](screenshots/mobile/ajouter dem 2.jpg)
 
 ### Back Office
-![Back Office Screenshot 1](screenshots/backoffice/4.PNG)
-![Back Office Screenshot 2](screenshots/backoffice/5.PNG)
+![Back Office Screenshot 1](./screenshots/backoffice/4.PNG)
+![Back Office Screenshot 2](./screenshots/backoffice/5.PNG)
 ![Back Office Screenshot 3](screenshots/backoffice/6.PNG)
 ![Back Office Screenshot 4](screenshots/backoffice/7.PNG)
 ![Back Office Screenshot 5](screenshots/backoffice/8.PNG)
