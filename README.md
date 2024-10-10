@@ -38,24 +38,29 @@ To get a local copy up and running, follow these steps:
 ## Screenshots
 
 ### Mobile App
-<img src="screenshoots/mobile/main1.jpg" alt="Main Screen 1" width="300"/>
-<img src="screenshoots/mobile/main2.jpg" alt="Main Screen 2" width="300"/>
-<img src="screenshoots/mobile/main3.jpg" alt="Main Screen 3" width="300"/>
-<img src="screenshoots/mobile/register.jpg" alt="Register" width="300"/>
-<img src="screenshoots/mobile/profilrec.jpg" alt="Profile Recruiter" width="300"/>
-<img src="screenshoots/mobile/pagerechrcherec.jpg" alt="Search Page" width="300"/>
-<img src="screenshoots/mobile/resultfiltre.jpg" alt="Results Filter" width="300"/>
-<img src="screenshoots/mobile/editprofil.jpg" alt="Edit Profile" width="300"/>
-<img src="screenshoots/mobile/voirProfile.jpg" alt="View Profile" width="300"/>
-<img src="screenshoots/mobile/listedesdemandes.jpg" alt="Request List" width="300"/>
-<img src="screenshoots/mobile/s'inscrire.jpg" alt="S'inscrire" width="300"/>
-<img src="screenshoots/mobile/ajouterdem.jpg" alt="Add Dem" width="300"/>
-<img src="screenshoots/mobile/ajouterdem2.jpg" alt="Add Dem 2" width="300"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="screenshoots/mobile/main1.jpg" alt="Main Screen 1" width="150"/>
+    <img src="screenshoots/mobile/main2.jpg" alt="Main Screen 2" width="150"/>
+    <img src="screenshoots/mobile/main3.jpg" alt="Main Screen 3" width="150"/>
+    <img src="screenshoots/mobile/register.jpg" alt="Register" width="150"/>
+    <img src="screenshoots/mobile/profilrec.jpg" alt="Profile Recruiter" width="150"/>
+    <img src="screenshoots/mobile/pagerechrcherec.jpg" alt="Search Page" width="150"/>
+    <img src="screenshoots/mobile/resultfiltre.jpg" alt="Results Filter" width="150"/>
+    <img src="screenshoots/mobile/editprofil.jpg" alt="Edit Profile" width="150"/>
+    <img src="screenshoots/mobile/voirProfile.jpg" alt="View Profile" width="150"/>
+    <img src="screenshoots/mobile/listedesdemandes.jpg" alt="Request List" width="150"/>
+    <img src="screenshoots/mobile/s'inscrire.jpg" alt="S'inscrire" width="150"/>
+    <img src="screenshoots/mobile/ajouterdem.jpg" alt="Add Dem" width="150"/>
+    <img src="screenshoots/mobile/ajouterdem2.jpg" alt="Add Dem 2" width="150"/>
+</div>
 
 ### Back Office
-<img src="./screenshoots/backoffice/4.PNG" alt="Back Office Screenshot 1" width="300"/>
-<img src="./screenshoots/backoffice/5.PNG" alt="Back Office Screenshot 2" width="300"/>
-<img src="./screenshoots/backoffice/6.PNG" alt="Back Office Screenshot 3" width="300"/>
-<img src="./screenshoots/backoffice/7.PNG" alt="Back Office Screenshot 4" width="300"/>
-<img src="./screenshoots/backoffice/8.PNG" alt="Back Office Screenshot 5" width="300"/>
-<img src="./screenshoots/backoffice/9.PNG" alt="Back Office Screenshot 6" width="300"/>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <img src="./screenshoots/backoffice/4.PNG" alt="Back Office Screenshot 1" width="400"/>
+    <img src="./screenshoots/backoffice/5.PNG" alt="Back Office Screenshot 2" width="400"/>
+    <img src="./screenshoots/backoffice/6.PNG" alt="Back Office Screenshot 3" width="400"/>
+    <img src="./screenshoots/backoffice/7.PNG" alt="Back Office Screenshot 4" width="400"/>
+    <img src="./screenshoots/backoffice/8.PNG" alt="Back Office Screenshot 5" width="400"/>
+    <img src="./screenshoots/backoffice/9.PNG" alt="Back Office Screenshot 6" width="400"/>
+</div>
+
