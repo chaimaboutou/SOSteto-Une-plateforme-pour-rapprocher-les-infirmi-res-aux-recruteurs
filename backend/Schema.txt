@@ -1,0 +1,147 @@
+// User
+{
+    "idUser": Long,
+    "nom" : String,
+    "prenom" : String,
+    "email" : String,
+    "mdp" : String,
+    "role" : String,
+    "id_image_profile" : Long,
+    "estConnecte" : Boolean
+}
+//Image
+{
+    "id_image": Long,
+    "#idUser" : Long,
+    "desc" : String,
+    "data" : Buffer,
+}
+
+
+
+// recruteur
+{
+    "#idUser" : Long, 
+    "ville" : String,
+    "quartier": String,
+    "telephone": String,
+}
+
+//infirmier
+{
+    "#idUser" : Long,
+    "ville" :String,
+    "quartier": String,
+    "telephone" : String,
+    "langue_parlee" : String,
+    "specialite" : String,
+}
+
+//profil_infirmier
+{
+    "#id_infirmier" : Long,
+    "a_propos" : String,
+    "#id_disponibilite" : Long,
+    "#id_cv" : Long,
+}
+
+//session
+{
+    "idSession" : Long,
+    "date_expiration": Date
+}
+
+//demande
+{
+    "idDemande" : Long,
+    "#id_recruteur" : Long,
+    "titre" : String,
+    "objet" : String,
+    "prix_min" : Double,
+    "prix_max" : Double,
+    "date" : Date,
+    "heure_debut" : Date,
+    "heure_fin" : Date
+}
+
+//Disponibilité
+{
+    "id_disponibilite" : Long,
+    "#id_infirmiere" : Long,
+    "date_debut" : Date,
+    "date_fin" : Date,
+    "heure_debut" : Date,
+    "heure_fin" : Date,
+}
+
+//Rating
+{
+    "#id_recruteur" : Long,
+    "#id_infirmiere" : Long,
+    "score" : int,
+}
+
+//Commentaires
+{
+    "#id_recruteur" : Long,
+    "#id_infirmiere" : Long,
+    "objet" : String
+}
+
+// 
+{
+    "id_document": Long,
+    "#id_infirmier" : Long,
+    "intitule" : String,
+    "date_remise" : Date,
+    "lieu" : String,
+    "etablissement" : String
+}
+
+-------------Tables de références-------------
+//ville
+{
+    "nom_ville" : String,
+    "code_postal" : int
+}
+
+//specialite
+{
+    "nom_specialite" : String,
+}
+
+//Quartier
+{
+    "nom_quartier" : String,
+    "#id_ville" : Long
+}
+
+//Soins
+{
+    "nom_soin" : String,
+}
+
+-----------------------Table d'association----------
+//demande-soins
+{
+    "#id_demande" : Long,
+    "#nom_soin" : String,
+}
+
+//infirmier-soins
+{
+    "#id_infirmiere" : Long,
+    "nom_soin" : String
+}
+
+//favoris_demandes
+{
+    "#id_infirmier" : Long,
+    "#id_demande" : long,
+}
+
+//favoris_infirmiers
+{
+    "#id_recruteur" : Long,
+    "#id_infirmier" : Long,
+}

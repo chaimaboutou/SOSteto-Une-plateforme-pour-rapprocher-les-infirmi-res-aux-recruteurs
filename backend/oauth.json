@@ -1,0 +1,16 @@
+{
+    "web": {
+        "client_id": "1094627412794-kke894bm9r2ocv4q25qmhgh01rdhjno7.apps.googleusercontent.com",
+        "project_id": "sosteto",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost:3000/auth/google/callback"
+        ],
+        "javascript_origins": [
+            "http://localhost:3000"
+        ]
+    }
+}

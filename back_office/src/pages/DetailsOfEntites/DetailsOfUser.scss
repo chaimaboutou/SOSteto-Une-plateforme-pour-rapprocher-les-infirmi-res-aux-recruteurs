@@ -1,0 +1,133 @@
+.usersPage {
+  display: flex;
+}
+
+.usersContainer {
+  flex: 1;
+}
+
+.usersList {
+  padding: 20px;
+}
+
+form,
+.box1 {
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.infoItem {
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+
+label {
+  width: 200px
+}
+
+input,
+select {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  /* Ensure the padding doesn't affect the width */
+  background-color: #f9f9f9;
+  /* Optional: add a background color to disabled inputs */
+}
+
+input:disabled {
+  background-color: #f9f9f9;
+  /* Optional: add a background color to disabled inputs */
+  cursor: not-allowed;
+  /* Optional: change cursor for disabled inputs */
+}
+
+.infoperso,
+.infoville {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.infologin {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: 320px 300px;
+  column-gap: normal;
+}
+
+h3 {
+  margin-left: 20px;
+}
+
+  .info{
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    box-shadow: 2px 4px 10px 1px rgba(201,201,201,0.47);
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+  }
+  .infoInfirmier {
+    padding-right: 5px;
+    padding-bottom: 20px;
+    
+  }
+  .documents{
+    margin-top: 20px;
+  }
+  table{
+    width:100%;
+    table-layout: fixed;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  .tbl-content{
+    height:300px;
+    overflow-x:auto;
+    margin-top: 0px;
+    border: 1px solid rgba(255,255,255,0.3);
+  }
+  th{
+    padding: 20px 15px;
+    text-align: left;
+    font-weight: 500;
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+  }
+  td{
+    padding: 15px;
+    text-align: left;
+    vertical-align:middle;
+    font-weight: 300;
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+    border-bottom: solid 1px rgba(255,255,255,0.1);
+  }
+
+.userProfile {
+  margin-top: 20px;
+
+}
+
+
+
+  .demande{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+  }
+.specialite, .soins {
+  font-weight: bold;
+  padding-bottom: 10px;
+}
